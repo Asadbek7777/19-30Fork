@@ -8,4 +8,15 @@
     width: 100%;
     padding: 0 15px;
     margin: 0 auto;
+} 
+.bek_nav{ 
+    margin: 20px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    
+} 
+.bek_nav_list{ 
+    display: flex; 
+    list-style: none;
 }
